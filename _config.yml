@@ -97,8 +97,8 @@ author:
   name             : "Young-Mook Kang, Ph.D."
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Korea Research Institute of<br/> Chemical Technology"
-  email            : :"ymkang@krict.re.kr"
+  location         : "Korea Research Institute of Chemical Technology"
+  email            : "ymkang@krict.re.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
